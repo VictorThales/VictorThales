@@ -2,7 +2,8 @@
 👋 Olá, sou o Victor Thales! 
 </h1>
 <h4><img align="center" height="25" alt="student" src="https://user-images.githubusercontent.com/42248030/131770863-3547da45-b6ea-4115-8365-357ee374c3bd.png"> Acadêmico do curso de Engenharia da Computação da faculdade SATC. </h4>
-<h4><img align="center" height="25" alt="computer" src="https://user-images.githubusercontent.com/42248030/131770621-3568226d-f3df-4e01-ba90-7a9a78c8d4b0.png">  Desenvolvedor Web em uma startup na área da sáude. 
+<h4><img align="center" height="25" alt="computer" src="https://user-images.githubusercontent.com/42248030/131770621-3568226d-f3df-4e01-ba90-7a9a78c8d4b0.png">  
+	Desenvolvedor React
 </h4>
 
 <div style="display: inline_block"><br>
